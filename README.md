@@ -1,2 +1,2 @@
-# EdgewaterMarketsTest
-Edgewater Markets Test in React
+# EdgewaterMarkets
+Test from Edgewater Markets
